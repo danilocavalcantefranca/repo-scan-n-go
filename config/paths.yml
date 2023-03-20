@@ -1,0 +1,5 @@
+path:
+  scan-n-go-auth:
+    auth: /mgus-scango-auth/v1/token
+  scan-n-go-store-ms:
+    stores: /mgus-scango-storemicroservice/v1/stores
